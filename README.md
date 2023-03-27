@@ -1,1 +1,2 @@
-# embedded_school
+# embedded-school
+Embedded School Projects 
